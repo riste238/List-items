@@ -1,3 +1,8 @@
+I'm catch the data through a json server.
+So I need to call json server on another port and then in useEffect hook I will receive data with corresponding url.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
